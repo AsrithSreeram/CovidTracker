@@ -1,5 +1,5 @@
 # CovidTracker
-Here is the Software Developed for Team 2152.902 for TSA Software Development Event
+Here is the Software Developed by Team 2152.902 for TSA Software Development Event
 On a general hierarchy, this app will allow people to stay safe and be notified of a “covid-19 threat” in the area they are in. It can inform them about places that are at high risk and low risk. This can educate the public on where it is and is not safe to travel. It can also give recommendations on “possible quarantine” periods based on contact with infected personnel depending upon the area and usage of the application. 
 
 [Education/Social Value]: Currently, we hope to have luck on our side so that we do not contract covid 19 when travelling. This app eliminates luck from the equation and provides the user with ease of mind as they now know what they are putting themselves into when commuting. As Nelson Mandela once said, “Education is the most powerful weapon which you can use to change the world.” You cannot help mitigate covid 19 or be safe without being educated and thus the news page is vital to the purpose of the app .
